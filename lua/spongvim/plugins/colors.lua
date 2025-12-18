@@ -1,6 +1,6 @@
 require("spongvim.plugins.themes.rosepine")
 
-function colorthisshit(color)
+function colorthis(color)
 	color = color or "rose-pine"
 --	vim.cmd.colorscheme(color)
 
@@ -9,5 +9,5 @@ function colorthisshit(color)
 
 end
 
-colorthisshit()
+colorthis()
 return {}
