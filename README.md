@@ -1,5 +1,5 @@
 # nvim-configs
-A minimal nvim config which includes essential and basic plugins: <br>
+A minimal neovim config which includes essential and basic plugins: <br><br>
 lazy.nvim - the plugin manager (bootstrapped) <br>
 treesitter - In a nutshell, it's for better syntax highlight and fast performance <br>
 telescope - fuzzy finder <br>
